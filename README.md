@@ -35,7 +35,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: S.Pavithra RegisterNumber:212223220073
+Developed by: S.Pavithra 
+RegisterNumber:212223220073
 
 ```
 module combinationalcircuit(A,B,C,D,F1);
@@ -50,7 +51,7 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
-
+**Truthtable**
 ![image](https://github.com/Pavithrasaravanakumar/BOOLEAN_FUNCTION_MINIMIZATION/assets/150664013/971719e6-3d36-48eb-9b28-7a6377c28ebd)
 
 
